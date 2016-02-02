@@ -11,12 +11,6 @@ Target <code>iOS 9+</code> <code>Swift 2+</code>
 
 ### Useas:-
 ```swift
-var rzAlertView: RzAlertView!;
-
-rzAlertView.slideInFromTop();
-rzAlertView.slideInFromBottom();
-rzAlertView.slideInFromLeft();
-rzAlertView.slideInFromRight();
 ```
 
 Please Like :+1:
